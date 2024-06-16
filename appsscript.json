@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "OpenWeatherMapAPI",
+    "company": "MamiTakata",
+    "logoUrl": "https://raw.githubusercontent.com/MamiTakata/lookerstudio-wheather-connector/main/weather_icon.png",
+    "addonUrl": "https://github.com/MamiTakata/lookerstudio-wheather-connector/",
+    "supportUrl": "https://github.com/MamiTakata/lookerstudio-wheather-connector/",
+    "description": "OpenWeatherMapAPIを使用して天気を取得する"
+  }
+}
